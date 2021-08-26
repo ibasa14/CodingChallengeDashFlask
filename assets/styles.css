@@ -1,0 +1,32 @@
+* {
+  overflow: hidden;
+}
+
+.graph {
+  height: 39vh;
+  width: 100%;
+  margin: 0;
+  padding: 1vh;
+}
+
+.table-container {
+  height: 20vh;
+  width: 100%;
+  margin: 0;
+  padding: 1vh;
+  background-color: rgb(63, 88, 146);
+}
+
+.modebar {
+  display: none !important;
+}
+
+.map-container {
+  height: 100vh;
+  width: 100%;
+}
+
+.row {
+  width: 101vw;
+  background-color: rgb(63, 88, 146);
+}
