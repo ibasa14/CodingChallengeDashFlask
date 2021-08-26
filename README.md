@@ -44,6 +44,6 @@ Además de los ejercicios propuestos en el guíon, se ha añadido:
 
 ![Alt text](/assets/imagen1.png?raw=true "Mapa")
 
-![Alt text](/assets/imagen2.png?raw=true "Histograma")
+![Alt text](/assets/Imagen2.png?raw=true "Histograma")
 
-![Alt text](/assets/imagen3.png?raw=true "Responsive")
+![Alt text](/assets/Imagen3.png?raw=true "Responsive")
